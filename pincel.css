@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: rgb(192, 40, 40);
+  cursor: none;
+}
+
+Canvas {
+  display: block;
+}
